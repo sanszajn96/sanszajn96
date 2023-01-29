@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sanszajn96
+- 👋 Hi, my name is Artur
 - 👀 I’m interested in music, technology, automotive
-- 🌱 I’m currently learning React, Cypress, Testing
+- 🌱 I’m currently learning HTML, CSS, React, Manual Testing and Automation Testing
 - 💞️ I’m looking to collaborate on something impressive
-- 📫 U can't see me
+
 
 <!---
 sanszajn96/sanszajn96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
